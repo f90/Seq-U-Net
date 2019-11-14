@@ -1,0 +1,14 @@
+numpy
+scipy
+h5py
+torch==1.2.0
+torchvision==0.4.0
+tqdm
+resampy
+sortedcontainers
+tensorboard
+hyperopt
+unidecode
+observations
+requests
+librosa
