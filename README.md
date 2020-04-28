@@ -1,6 +1,6 @@
-# Seq-U-Net: A causal one-dimensional U-Net for sequence modelling
+# Seq-U-Net: A causal one-dimensional U-Net for efficient sequence modelling
 
-This is the official repository for the Seq-U-Net.
+This is the official repository for the Seq-U-Net, as presented in [this paper](https://arxiv.org/abs/1911.06393).
 
 ## What is the Seq-U-Net?
 
@@ -28,6 +28,7 @@ Audio examples can be found [here](raw_audio/generated_samples)
 
 System requirements are as follows:
 
+* Linux-based OS
 * Python 3.6
 * [Soundfile](http://www.mega-nerd.com/libsndfile/) library installed
 * Virtualenv strongly recommended
